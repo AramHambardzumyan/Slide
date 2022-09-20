@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(252, 184, 126);
+}
+#image{
+    width: 400px;
+    height: 400px;
+    border-radius: 15px;
+}
+#previous{
+    width: 80px;
+    height: 30px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+#next{
+    width: 80px;
+    height: 30px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+.style{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+margin-top: 45px;
+}
